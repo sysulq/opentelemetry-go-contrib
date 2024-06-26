@@ -37,6 +37,8 @@ github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsT
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 go.opentelemetry.io/otel v1.27.0 h1:9BZoF3yMK/O1AafMiQTVu0YDj5Ea4hPhxCs7sGva+cg=
 go.opentelemetry.io/otel v1.27.0/go.mod h1:DMpAK8fzYRzs+bi3rS5REupisuqTheUlSZJ1WnZaPAQ=
+go.opentelemetry.io/otel/exporters/otlp/otlplog/otlploggrpc v0.0.0-20240625175500-6d45f283c7ab h1:2eq3ZKzQLi1gFNwUw+4n+gsu9klL34RHm93MHitSLYo=
+go.opentelemetry.io/otel/exporters/otlp/otlplog/otlploggrpc v0.0.0-20240625175500-6d45f283c7ab/go.mod h1:+j2/S7k7t2jiA3PrDSMVIqT1+RWBOJEWOV4AWvRw5qU=
 go.opentelemetry.io/otel/exporters/otlp/otlplog/otlploghttp v0.3.0 h1:ccBrA8nCY5mM0y5uO7FT0ze4S0TuFcWdDB2FxGMTjkI=
 go.opentelemetry.io/otel/exporters/otlp/otlplog/otlploghttp v0.3.0/go.mod h1:/9pb6634zi2Lk8LYg9Q0X8Ar6jka4dkFOylBLbVQPCE=
 go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc v1.27.0 h1:bFgvUr3/O4PHj3VQcFEuYKvRZJX1SJDQ+11JXuSB3/w=
